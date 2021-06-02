@@ -1,5 +1,5 @@
 body{
-    background-color:slategrey;
+    background-color:903749;
 }
 .heads{
     text-align: center;
@@ -13,7 +13,7 @@ body{
   }
   
   .floating-stack {
-    background: #222322;
+    background: #53354a;
     color: #fff;
     height: 80vh;
     width: 320px;
@@ -33,7 +33,7 @@ body{
     top: 0.5rem;
     left: 0.5rem;
     font-weight: bold;
-    background: #263238;
+    background: #e84545;
     color: #cfd8dc;
     height: 2rem;
     width: 2rem;

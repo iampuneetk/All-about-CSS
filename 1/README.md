@@ -6,3 +6,7 @@ Creates a list with floating headings for each section.
 - Use display: grid on the inner container (```<dl>```) to create a layout with two columns.
 - Set headings (```<dt>```) to grid-column: 1 and content (```<dd>```) to grid-column: 2
 - Finally, apply position: sticky and top: 0.5rem to headings to create a floating effect.
+
+
+## To Check this layout check: 
+### https://codepen.io/puneetkhanna
